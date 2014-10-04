@@ -1,1 +1,7 @@
 .project
+builds/
+lastStable/
+lastSuccessful/
+modules/
+nextBuildNumber
+workspace/
