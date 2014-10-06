@@ -1,8 +1,8 @@
 .project
-**/builds/
-**/lastStable/
-**/lastSuccessful/
-**/modules/
+**/builds
+**/lastStable
+**/lastSuccessful
+**/modules
 **/nextBuildNumber
 **/scm-polling.log
-**/workspace/
+**/workspace
